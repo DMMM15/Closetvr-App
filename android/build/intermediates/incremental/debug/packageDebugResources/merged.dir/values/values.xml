@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ocean_abyss">#FF030B1A</color>
+    <color name="ocean_black">#FF000000</color>
+    <string name="default_web_client_id" translatable="false">923277322497-348909vsol1qlrb71v2214ln1ce9bn0l.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">923277322497</string>
+    <string name="google_api_key" translatable="false">AIzaSyARp25KpTbbhAR_UiGmSBB2jbIwLLqZEWE</string>
+    <string name="google_app_id" translatable="false">1:923277322497:android:14daf1bb05685abc269300</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyARp25KpTbbhAR_UiGmSBB2jbIwLLqZEWE</string>
+    <string name="google_storage_bucket" translatable="false">closetvr-app.firebasestorage.app</string>
+    <string name="project_id" translatable="false">closetvr-app</string>
+    <style name="Theme.ClosetVR" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/ocean_black</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+    </style>
+    <style name="Theme.ClosetVR.Starting" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/ocean_abyss</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/splash_empty</item>
+        <item name="postSplashScreenTheme">@style/Theme.ClosetVR</item>
+    </style>
+</resources>

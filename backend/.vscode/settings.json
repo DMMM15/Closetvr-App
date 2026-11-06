@@ -1,0 +1,19 @@
+{
+    "sqltools.connections": [
+        {
+            "pgOptions": {
+                "ssl": {
+                    "rejectUnauthorized": false
+                }
+            },
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "closetvr-closetvr-afa0.b.aivencloud.com",
+            "port": 25511,
+            "driver": "PostgreSQL",
+            "name": "connection closetvr",
+            "database": "defaultdb",
+            "username": "avnadmin"
+        }
+    ]
+}

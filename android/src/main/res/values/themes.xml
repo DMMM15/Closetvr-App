@@ -1,0 +1,16 @@
+<resources>
+    <!-- Tema de arranque: fondo azul abismo idéntico al de la Splash de Compose,
+         para que no haya parpadeo blanco al abrir la app. -->
+    <style name="Theme.ClosetVR.Starting" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/ocean_abyss</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/splash_empty</item>
+        <item name="postSplashScreenTheme">@style/Theme.ClosetVR</item>
+    </style>
+
+    <!-- Tema base de la app (oscuro, edge-to-edge) -->
+    <style name="Theme.ClosetVR" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/ocean_black</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+    </style>
+</resources>

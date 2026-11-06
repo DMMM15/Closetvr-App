@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "com.closetvr.app-merged_res-74:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.closetvr.app-main-76:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.closetvr.app-merged_res-74:/drawable_splash_empty.xml.flat",
+        "source": "com.closetvr.app-main-76:/drawable/splash_empty.xml"
+    },
+    {
+        "merged": "com.closetvr.app-merged_res-74:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.closetvr.app-main-76:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.closetvr.app-merged_res-74:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.closetvr.app-main-76:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.closetvr.app-merged_res-74:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.closetvr.app-main-76:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.closetvr.app-merged_res-74:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.closetvr.app-main-76:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.closetvr.app-merged_res-74:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.closetvr.app-main-76:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.closetvr.app-merged_res-74:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.closetvr.app-main-76:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.closetvr.app-merged_res-74:/font_inter_semibold.ttf.flat",
+        "source": "com.closetvr.app-main-76:/font/inter_semibold.ttf"
+    },
+    {
+        "merged": "com.closetvr.app-merged_res-74:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.closetvr.app-main-76:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.closetvr.app-merged_res-74:/font_inter_medium.ttf.flat",
+        "source": "com.closetvr.app-main-76:/font/inter_medium.ttf"
+    },
+    {
+        "merged": "com.closetvr.app-merged_res-74:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.closetvr.app-main-76:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.closetvr.app-merged_res-74:/font_inter_bold.ttf.flat",
+        "source": "com.closetvr.app-main-76:/font/inter_bold.ttf"
+    },
+    {
+        "merged": "com.closetvr.app-merged_res-74:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.closetvr.app-main-76:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.closetvr.app-merged_res-74:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.closetvr.app-main-76:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.closetvr.app-merged_res-74:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.closetvr.app-main-76:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.closetvr.app-merged_res-74:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.closetvr.app-main-76:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.closetvr.app-merged_res-74:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.closetvr.app-main-76:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.closetvr.app-merged_res-74:/font_inter_regular.ttf.flat",
+        "source": "com.closetvr.app-main-76:/font/inter_regular.ttf"
+    },
+    {
+        "merged": "com.closetvr.app-merged_res-74:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.closetvr.app-main-76:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.closetvr.app-merged_res-74:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.closetvr.app-main-76:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.closetvr.app-merged_res-74:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.closetvr.app-main-76:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.closetvr.app-merged_res-74:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.closetvr.app-main-76:/mipmap-hdpi/ic_launcher_round.webp"
+    }
+]

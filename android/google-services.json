@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "923277322497",
+    "project_id": "closetvr-app",
+    "storage_bucket": "closetvr-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923277322497:android:14daf1bb05685abc269300",
+        "android_client_info": {
+          "package_name": "com.closetvr.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923277322497-3le5ffcq2io58tbqgvlfbt0vh1gaposa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.closetvr.app",
+            "certificate_hash": "29e66e227324aa0b2c4e1306b1454261c7868303"
+          }
+        },
+        {
+          "client_id": "923277322497-348909vsol1qlrb71v2214ln1ce9bn0l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARp25KpTbbhAR_UiGmSBB2jbIwLLqZEWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923277322497-348909vsol1qlrb71v2214ln1ce9bn0l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
